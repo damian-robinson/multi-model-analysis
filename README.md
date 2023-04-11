@@ -1,2 +1,5 @@
-# project_2
-Project 2 of FinTech Bootcamp
+# Climate Change Analysis – Global Temperature & Sea Levels
+---
+
+## Project 2 of FinTech Bootcamp
+
