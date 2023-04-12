@@ -35,3 +35,7 @@
 - Altitude (for predictions at different elevations)
 
 ---
+
+## List of Data Sources
+
+- Global Annual Mean Temperature https://www.kaggle.com/datasets/jarredpriester/global-annual-mean-temperature
