@@ -39,3 +39,4 @@
 ## List of Data Sources
 
 - Global Annual Mean Temperature https://www.kaggle.com/datasets/jarredpriester/global-annual-mean-temperature
+- Sunspots Time Series https://www.kaggle.com/datasets/robervalt/sunspots
