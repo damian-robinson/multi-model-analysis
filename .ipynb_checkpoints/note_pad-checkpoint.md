@@ -40,4 +40,3 @@
 
 - Global Annual Mean Temperature https://www.kaggle.com/datasets/jarredpriester/global-annual-mean-temperature
 - Sunspots Time Series https://www.kaggle.com/datasets/robervalt/sunspots
-- Comparative Sea Level graph - https://www.climate.gov/maps-data/dataset/global-mean-sea-level-graph
