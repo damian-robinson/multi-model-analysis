@@ -16,4 +16,5 @@ Global temperature has increased significantly since the beginning of the 1900's
 
 
 Global emissions show a mostly gradual incline from the 1700s to the 1900s. Then, an explosive increase from a specific group of countries.
+
 ![Emissions Change Chart Image](https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/emissions_change.png)
