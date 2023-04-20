@@ -84,9 +84,9 @@ Our average temperature prediction estimate is off by 0.14 degrees in our Linear
 
 ### References
 - https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
-  
-  
-  
+- https://www.kaggle.com/datasets/jarredpriester/global-annual-mean-temperature
+- https://www.kaggle.com/datasets/robervalt/sunspots
+- https://www.climate.gov/maps-data/dataset/global-mean-sea-level-graph
   
   
 </table>
