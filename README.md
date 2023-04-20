@@ -75,6 +75,11 @@ The Data had the following columns:
 - LandAndOceanAverageTemperature: global average land and ocean temperature in celsius
 - LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around the global average land and ocean temperature
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/forest_heatmap.png"></td>
+  </tr>
+</table>
 
 Our average temperature prediction estimate is off by 0.14 degrees in our Linear Regression MAE and 0.13 for our Random Forest MAE. That is almost a 1-degree average improvement over the baseline of 1.12 degrees. This is nearly 92% better than the baseline. Our model has learned how to predict the average temperature for the next year with over 90% accuracy in both our models.
   
