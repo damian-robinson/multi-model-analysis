@@ -47,13 +47,14 @@ All of our machine learning models predicted a continuation of the trend of incr
 
 
 ## Climate Change - Neural Network
-  
+
+<table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Annual_Climate_Disasters.png"></td>
     <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Sea_Level_Change_Prediction.png"></td>
     <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Sea_Level_Comparison_Graph.jpg"></td>
   </tr>
-  
+</table>  
   
 
 
