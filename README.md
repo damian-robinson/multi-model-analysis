@@ -23,7 +23,6 @@ Our project utilized a variety of Python libraries, including:
 - SciKit-Learn
 - Plotly
 
----
 
 ## Takeaway
 All of our machine learning models predicted a continuation of the trend of increased temperatures and higher sea levels. This trend will most likely result in more severe weather and climate disasters, including hurricane damage, famine from drought, and other severe weather associated with those factors. By utilizing machine learning models, we can better understand the impact of climate change and take steps towards mitigating potential harm.
