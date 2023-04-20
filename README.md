@@ -1,11 +1,28 @@
-# Predicting Climate Changes
-### Global Temperature & Sea Levels
+# Climate Change Forecasting and Prediction
 ---
 ![Unsplash Climate Image](https://www.noaa.gov/sites/default/files/styles/landscape_width_1275/public/2022-03/PHOTO-Climate-Collage-Diagonal-Design-NOAA-Communications-NO-NOAA-Logo.jpg)
 
-## Overview
+## Intro
+Our world's climate is constantly changing, and understanding these changes is critical to mitigating the potential harm to our planet and its inhabitants. In this project, we utilized various machine learning models to forecast changes in global temperature, both on land and sea, as well as predict sea level rise. By examining data from sources such as NOAA, datahub.io, kaggle, climate.gov, and others, we aimed to better understand how global emissions, glacier melt, and other factors could impact climate change.
 
-This is an exploratory analysis of various proposed climate change factors, such as global temperature and sea levels. 
+## Overview
+Our project began by compiling data on temperature change, historical sea level change, annual global emissions, and glacier melt over time to input into our models. We utilized a variety of machine learning models, including linear regression, random forest, ridge regression, and neural network models, to forecast and predict these changes. Our goal with these predictions was to better understand the potential impact of increased sea level and temperature, such as population displacement in coastal areas and the increase in severe climate-related natural disasters.
+
+## Limitations
+One significant limitation of our project was the data itself. To develop a fully-formed model, we would require much more data, which would likely have an impact on our predictions. Additionally, our data only extended to 2014, so any new changes made regarding electric and green energy are not accounted for in our emissions numbers.
+
+### Libraries Used
+Our project utilized a variety of Python libraries, including:
+- pandas
+- matplotlib
+- numpy
+- seaborn
+- TensorFlow
+- scikit-learn
+- Plotly
+
+## Conclusion
+All of our machine learning models predicted a continuation of the trend of increased temperatures and higher sea levels. This trend will most likely result in more severe weather and climate disasters, including hurricane damage, famine from drought, and other severe weather associated with those factors. By utilizing machine learning models, we can better understand the impact of climate change and take steps towards mitigating potential harm.
 
 
 ## Climate Change - Ridge Regression
@@ -29,32 +46,17 @@ This is an exploratory analysis of various proposed climate change factors, such
 ---
 
 
-## Climate Change - Ridge Regression
+## Climate Change - Neural Network
   
   <tr>
-    <td><img src="image7.jpg"></td>
-    <td><img src="image8.jpg"></td>
-    <td><img src="image9.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Annual_Climate_Disasters.png"></td>
+    <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Sea_Level_Change_Prediction.png"></td>
+    <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Sea_Level_Comparison_Graph.jpg"></td>
   </tr>
   
   
-  Climate Change Forecasting and Prediction
-Our world's climate is constantly changing, and understanding these changes is critical to mitigating the potential harm to our planet and its inhabitants. In this project, we utilized various machine learning models to forecast changes in global temperature, both on land and sea, as well as predict sea level rise. By examining data from sources such as NOAA, datahub.io, kaggle, climate.gov, and others, we aimed to better understand how global emissions, glacier melt, and other factors could impact climate change.
-Project Overview
-Our project began by compiling data on temperature change, historical sea level change, annual global emissions, and glacier melt over time to input into our models. We utilized a variety of machine learning models, including linear regression, random forest, ridge regression, and neural network models, to forecast and predict these changes. Our goal with these predictions was to better understand the potential impact of increased sea level and temperature, such as population displacement in coastal areas and the increase in severe climate-related natural disasters.
-Limitations
-One significant limitation of our project was the data itself. To develop a fully-formed model, we would require much more data, which would likely have an impact on our predictions. Additionally, our data only extended to 2014, so any new changes made regarding electric and green energy are not accounted for in our emissions numbers.
-Libraries Used
-Our project utilized a variety of Python libraries, including:
-pandas
-matplotlib
-numpy
-seaborn
-TensorFlow
-scikit-learn
-Plotly
-Conclusion
-All of our machine learning models predicted a continuation of the trend of increased temperatures and higher sea levels. This trend will most likely result in more severe weather and climate disasters, including hurricane damage, famine from drought, and other severe weather associated with those factors. By utilizing machine learning models, we can better understand the impact of climate change and take steps towards mitigating potential harm.
+
+
   
   
   
