@@ -51,8 +51,10 @@ All of our machine learning models predicted a continuation of the trend of incr
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Annual_Climate_Disasters.png"></td>
-    <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Sea_Level_Comparison_Graph.jpg"></td>
     <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Sea_Level_Change_Prediction.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/Sea_Level_Comparison_Graph.jpg"></td>
     <td><img src="https://raw.githubusercontent.com/damian-robinson/multi-model-analysis/main/data/heatmap.png"></td>
   </tr>
 </table>
